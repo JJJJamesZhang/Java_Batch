@@ -5,3 +5,5 @@
 5) Tomcat 7/8
 6) * Sublime Text
 7) MySQL
+8) Git
+9) Postman
