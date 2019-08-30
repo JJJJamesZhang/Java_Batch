@@ -3,7 +3,7 @@
 3) Maven - comes with Intellij - Need setup to windows env
 4) Java 8 - JDK
 5) Tomcat 7/8
-6) * Sublime Text
+6) * Sublime Text/Notepad ++
 7) MySQL
 8) Git
 9) Postman
